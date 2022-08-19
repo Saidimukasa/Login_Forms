@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 A project to demonstrate usage of basic react.js hooks  
-
+______
 
 ### Article Part 1:      
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1597338639/Blogimages/1_screen3_pahzhf.png" width=500 >   
